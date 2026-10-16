@@ -1,0 +1,25 @@
+﻿PCPartPicker Part List: https://pcpartpicker.com/list/WjtYR4
+
+
+CPU: 
+AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor  ($172.99 @ Amazon) 
+CPU Cooler:
+ Noctua NH-U12A chromax.black 60.09 CFM CPU Cooler  ($119.95 @ Amazon) 
+Motherboard:
+ Gigabyte B850 EAGLE WIFI6E ATX AM5 Motherboard  ($180.79 @ Amazon) 
+Memory:
+ Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory  ($399.99 @ Newegg) 
+Storage:
+ Patriot P300 512 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive  ($79.98 @ Amazon) 
+Storage:
+ PNY CS900 2 TB 2.5" Solid State Drive  ($234.99 @ Amazon) 
+Video Card: 
+ASRock B60 CT 24G Arc Pro B60 24 GB Video Card  ($649.99 @ Newegg) 
+Case:
+ Zalman T8 ATX Mid Tower Case  ($38.99 @ Newegg Sellers) 
+Power Supply:
+ Montech CENTURY II 850 W 80+ Gold Certified Fully Modular ATX Power Supply  ($89.90 @ Newegg) 
+Total: $1967.57
+
+
+Тази машина е подходяща за задачите на една работна станция, тъй като разполага с 32 гб рам памет, правейки използването на няколко програми по едно и също време без проблемно. SATA и Nvme са два вида памет, които правят бързата работа възможна. Видео картата е подходяща за рендиране на Blender и други програми.
