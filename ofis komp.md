@@ -1,0 +1,49 @@
+1. **CPU:** 
+
+Intel Core i5-12400 2.5 GHz 6-Core Processor  (*\$192.31 @ Amazon)* 
+
+2. **CPU Cooler:** 
+
+be quiet\! Dark Rock Pro 5 CPU Cooler  *(\$69.90 @ Newegg)* 
+
+3. **Motherboard:** 
+
+Asus PRIME B760M-R D4 Micro ATX LGA1700 Motherboard 
+
+4. **Memory:** 
+
+Crucial CT8G4DFRA32A 8 GB (1 x 8 GB) DDR4-3200 CL22 Memory  *(\$121.52 @ MemoryC)* 
+
+5. **Memory:** 
+
+Crucial CT8G4DFRA32A 8 GB (1 x 8 GB) DDR4-3200 CL22 Memory  *(\$121.52 @ MemoryC)* 
+
+6. **Storage:** 
+
+Patriot P300 128 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive  (*\$41.99 @ Amazon)* 
+
+7. **Storage**:
+
+ Western Digital AV-GP 160 GB 3.5" 5400 RPM Internal Hard Drive  (*\$24.99 @ Amazon)* 
+
+8. **Storage:** 
+
+Western Digital AV-GP 160 GB 3.5" 5400 RPM Internal Hard Drive  *(\$24.99 @ Amazon)* 
+
+9. **Case:**
+
+ Phanteks XT PRO ATX Mid Tower Case  *(\$49.97 @ Newegg)* 
+
+10. **Power Supply**: 
+
+be quiet\! Pure Power 11 300 W 80+ Bronze Certified ATX Power Supply 
+
+11. **Monitor** ViewSonic VA1903H 18.5" 1366 x 768 60 Hz Monitor  *(\$79.98@Amazon*) 
+
+**Total: \$727,17**  
+Конфигурацията е подходяща за офис работа, тъй като 6-ядреният процесор позволява добра производителност при работа с документи, електронни таблици, интернет браузъри и специализиран софтуер.  
+16GB DDR4 памет позволява едновременното използване на няколко програми без проблем. SSD дискът осигурява бързо стартиране на операционната система и програмите,  
+допълнителните HDD дискове могат да се използват за съхранение на документи и архиви, но той жертва по оптималната бързина с по \- ниската си цена.  
+Охлаждането be quiet\! Dark Rock Pro 5 CPU Cooler осигурява достатъчно охлаждане за ежедневния товар без да нарушава тихата среда за работа.  
+На кратко, тази машина е подходящата за ежедневна офиц работа със стандартни офис програми без да надвишава бюджета от 800 евро.
+
